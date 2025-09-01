@@ -37,7 +37,7 @@
 
 
 ##  교재  
-[**데이터사이언스 기초: Phthon을 활용한 경제경영데이터분석**](https://product.kyobobook.co.kr/detail/S000217427975)  
+[**데이터사이언스 기초: Phthon을 활용한 경제경영데이터분석**](https://search.shopping.naver.com/book/catalog/56503989874?fromwhere=people)  
 - **저자**: 우석진, 빈기범 외  
 - **출판사/출간일**: 지필미디어, 2025년 8월 29일
 
