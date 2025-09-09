@@ -37,7 +37,7 @@
 
 
 ##  교재  
-[**데이터사이언스 기초: Phthon을 활용한 경제경영데이터분석**](https://search.shopping.naver.com/book/catalog/56503989874?fromwhere=people)  
+[**데이터사이언스 기초: Python을 활용한 경제경영데이터분석**](https://search.shopping.naver.com/book/catalog/56503989874?fromwhere=people)  
 [실습파일: 중요한경제문제연구소](https://cafe.naver.com/centraleconomicissue?iframe_url_utf8=%2FArticleRead.nhn%253Fclubid%3D25644629%2526articleid%3D422%2526menuid%3D22%2526boardtype%3DL)
 - **저자**: 우석진, 빈기범 외  
 - **출판사/출간일**: 지필미디어, 2025년 8월 29일
